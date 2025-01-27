@@ -1,3 +1,2 @@
 # ProjetC
-Simulation d'un monde ecosystem 
-Représentation graphique de l'évolution du monde de l'écosystème.
+Simulation d'un monde ecosystem en représentant graphiquement l'évolution du monde de l'écosystème.
